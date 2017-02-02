@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Access Two">27d6a1b33714f200c26586f643990ed9</application>
+        <application display_value="Access Twox">27d6a1b33714f200c26586f643990ed9</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -25,7 +25,7 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>john.diego@snc</sys_created_by>
         <sys_created_on>2017-01-20 15:25:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>14e6a1b33714f200c26586f643990ef9</sys_id>
